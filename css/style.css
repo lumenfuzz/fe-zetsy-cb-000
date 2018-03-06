@@ -26,7 +26,7 @@ body {
 	color: #98ada6;
 }
 
-#light-border img {
+.light-border {
 	border: 4px solid;
 	color: #ccc;
 }
