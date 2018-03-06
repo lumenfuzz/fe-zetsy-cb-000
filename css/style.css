@@ -26,12 +26,12 @@ body {
 	color: #98ada6;
 }
 
-.light-border img {
+#light-border img {
 	border: 4px solid;
 	color: #ccc;
 }
 
-.light-border img:hover {
+#light-border img:hover {
 	border: 4px solid;
 	color: #777;
 }
