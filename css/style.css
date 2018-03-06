@@ -31,7 +31,7 @@ body {
 	color: #ccc;
 }
 
-.light-border a:hover {
+.light-border img:hover {
 	border: 4px solid;
 	color: #777;
 }
