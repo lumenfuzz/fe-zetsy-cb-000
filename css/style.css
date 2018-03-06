@@ -38,8 +38,9 @@ h1, h2 {
 }
 
 h1 {
-	font-size: 60px;
+	font-size: 80px;
 	font-family: 'Baskerville';
+	color: #98ada6;
 }
 
 h2 {
