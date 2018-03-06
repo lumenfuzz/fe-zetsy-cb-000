@@ -22,6 +22,11 @@ body {
 	color: #aaa;
 }
 
+.light-border {
+	border: 3px;
+	color: #eee;
+}
+
 /* Write all remaining styles here */
 
 h1, h2 {
