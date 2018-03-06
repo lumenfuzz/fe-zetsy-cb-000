@@ -22,3 +22,7 @@ body {
 h1, h2 {
 	color: #777;
 }
+
+p {
+	font-size: 10px;
+}
