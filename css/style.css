@@ -1,6 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+@font-face {
+	font-family: 'Baskerville';
+	src: url(linotype.com/43255/baskerville-family.html);
+}
 
 /*////////// Global Styles //////////*/
 
@@ -35,7 +39,7 @@ h1, h2 {
 
 h1 {
 	font-size: 60px;
-
+	font-family: 'Baskerville';
 }
 
 h2 {
