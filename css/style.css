@@ -36,6 +36,11 @@ body {
 	color: #777;
 }
 
+.learn-more {
+	color: #1783bb;
+	text-decoration: none;
+}
+
 /* Write all remaining styles here */
 
 h1, h2 {
